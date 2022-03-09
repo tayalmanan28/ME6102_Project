@@ -1,2 +1,2 @@
-# ME6102_Project
+# ME6102 Project
 Force Controlled Compliant Gripper
