@@ -12,8 +12,7 @@ Force Controlled Compliant Gripper
 | --------------------- | --------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
 | Servo motor           | TowerPro MG 995 Metal Gear Servo Motor (180 deg rotation)<br>                                                         | 1        | 450      |
 | 3D Printed Model      | Flexible PLA                                                                                                          | 0.3kg    | 360      |
-| Piezo-electric Sensor | Lead zirconate titanate-piezoelectric ceramic material<br>
-========================================================== | 3        | 55       |
+| Piezo-electric Sensor | Lead zirconate titanate-piezoelectric ceramic material | 3        | 55       |
 | Microcontroller       | Arduino UNO                                                                                                           | 1        | 500      |
 | Rubber Grip           | Lead zirconate titanate-piezoelectric ceramic material                                                                | 3        | 150      |
 
