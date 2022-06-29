@@ -8,14 +8,14 @@ Force Controlled Compliant Gripper
 <img src="media/arduino-force-sensor-wiring-diagram.jpg" alt="gripper" height="200"/>
 
 ## Things Needed and Cost (in INR)
-| THINGS NEEDED         | SPECS                                                                                                                 | Quantity | Cost(Rs) |
+| <b>THINGS NEEDED         | SPECS                                                                                                                 | Quantity | Cost(Rs) </b>|
 | --------------------- | --------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
 | Servo motor           | TowerPro MG 995 Metal Gear Servo Motor (180 deg rotation)<br>                                                         | 1        | 450      |
 | 3D Printed Model      | Flexible PLA                                                                                                          | 0.3kg    | 360      |
 | Piezo-electric Sensor | Lead zirconate titanate-piezoelectric ceramic material | 3        | 55       |
 | Microcontroller       | Arduino UNO                                                                                                           | 1        | 500      |
 | Rubber Grip           | Lead zirconate titanate-piezoelectric ceramic material                                                                | 3        | 150      |
-| Total           |                                                                 |        | 1515    |
+| <b>Total           |                                                                 |        | 1515    </b>|
 
 ## Images of Compliant Gripper
 <p float="left">
