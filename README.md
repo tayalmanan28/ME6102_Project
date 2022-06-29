@@ -12,5 +12,7 @@ Force Controlled Compliant Gripper
 </p>
 
 ## Gif
-<img src="media/Compliant_Gripper.gif" alt="gripper" height="200"/>
-<img src="media/Force_Sensor.gif" alt="gripper" height="200"/>
+<p float="left">
+  <img src="media/Compliant_Gripper.gif" alt="gripper" height="200"/>
+  <img src="media/Force_Sensor.gif" alt="gripper" height="200"/>
+</p>
