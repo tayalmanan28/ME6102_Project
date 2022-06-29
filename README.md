@@ -6,3 +6,7 @@ Force Controlled Compliant Gripper
 3. Simulated the dynamics of the gripper in MATLAB using the SynGrasp toolbox by superposing torsional spring behaviour at the hinges of finger joints for approximating the compliant behavior of the gripper
 
 ![image](media/Compliant_Gripper.gif)
+
+![image](media/gripper.jpg)
+
+![image](media/gripper_1.jpg)
