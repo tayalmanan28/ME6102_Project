@@ -7,6 +7,8 @@ Force Controlled Compliant Gripper
 
 ![image](media/Compliant_Gripper.gif)
 
+<img src="media/gripper.jpg" alt="gripper" height="200"/>
 ![image](media/gripper.jpg)
 
+<img src="media/gripper_1.jpg" alt="gripper" height="200"/>
 ![image](media/gripper_1.jpg)
