@@ -15,6 +15,7 @@ Force Controlled Compliant Gripper
 | Piezo-electric Sensor | Lead zirconate titanate-piezoelectric ceramic material | 3        | 55       |
 | Microcontroller       | Arduino UNO                                                                                                           | 1        | 500      |
 | Rubber Grip           | Lead zirconate titanate-piezoelectric ceramic material                                                                | 3        | 150      |
+| Total           |                                                                 |        | 1515    |
 
 ## Images of Compliant Gripper
 <p float="left">
