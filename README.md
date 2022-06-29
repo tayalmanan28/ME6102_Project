@@ -8,16 +8,14 @@ Force Controlled Compliant Gripper
 <img src="media/arduino-force-sensor-wiring-diagram.jpg" alt="gripper" height="200"/>
 
 ## Things Needed and Cost (in INR)
-| THINGS NEEDED    | SPECS                    | Quantity          | Cost(Rs)      |
-| ---------------- | ------------------------ | ----------------- | ------------- |
-| Stepper Motor    | 87mm (3.4 inches) NEMA34 | 2                 |               |
-| Springs          | Not Decided Yet
-
-<br>    | 4                 |               |
-| 3D Printed Model |                          | 1(Assuming 0.3kg) | 0.3\*1200=360 |
-| pressure Sensor  |                          | 4                 | 160\*4=640    |
-| Distance sensor  | HC SR 05                 | 2                 | 200\*2=400    |
-| Rubber Grip      |                          | 2                 | 100\*2=200    |
+| THINGS NEEDED         | SPECS                                                                                                                 | Quantity | Cost(Rs) |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
+| Servo motor           | TowerPro MG 995 Metal Gear Servo Motor (180 deg rotation)<br>                                                         | 1        | 450      |
+| 3D Printed Model      | Flexible PLA                                                                                                          | 0.3kg    | 360      |
+| Piezo-electric Sensor | Lead zirconate titanate-piezoelectric ceramic material<br>
+========================================================== | 3        | 55       |
+| Microcontroller       | Arduino UNO                                                                                                           | 1        | 500      |
+| Rubber Grip           | Lead zirconate titanate-piezoelectric ceramic material                                                                | 3        | 150      |
 
 ## Images of Compliant Gripper
 <p float="left">
